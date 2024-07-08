@@ -1,0 +1,56 @@
+﻿@* @page
+@model StudentManagement.Views.Admin.SearchByStatusModel
+@{
+} *@
+
+
+@model IEnumerable<StudentManagement.Models.Student>
+
+@{
+    ViewData["Title"] = "Search By Status";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="SearchByStatus" method="post">
+    <div class="form-group">
+        <label for="Status">Status</label>
+        <select id="Status" name="status" class="form-control">
+            <option value="Active">Active</option>
+            <option value="Inactive">Inactive</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Student Name</th>
+            <th>Email</th>
+            <th>Mobile Number</th>
+            <th>Address</th>
+            <th>Admission Date</th>
+            <th>Fees</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.Student_Name</td>
+                <td>@student.Student_Email</td>
+                <td>@student.Mobile_number</td>
+                <td>@student.Student_Address</td>
+                <td>@student.admission_date.ToShortDateString()</td>
+                <td>@student.fees</td>
+                <td>@student.Status</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>

@@ -1,0 +1,55 @@
+﻿@model StudentManagement.Models.Student
+
+@{
+    ViewData["Title"] = "Edit Student";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="EditStudent" method="post">
+    <div class="form-group">
+        <label asp-for="Student_Name" class="control-label"></label>
+        <input asp-for="Student_Name" class="form-control" />
+        <span asp-validation-for="Student_Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Student_Email" class="control-label"></label>
+        <input asp-for="Student_Email" class="form-control" />
+        <span asp-validation-for="Student_Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Mobile_number" class="control-label"></label>
+        <input asp-for="Mobile_number" class="form-control" />
+        <span asp-validation-for="Mobile_number" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Student_Address" class="control-label"></label>
+        <input asp-for="Student_Address" class="form-control" />
+        <span asp-validation-for="Student_Address" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="admission_date" class="control-label"></label>
+        <input asp-for="admission_date" class="form-control" readonly />
+    </div>
+    <div class="form-group">
+        <label asp-for="fees" class="control-label"></label>
+        <input asp-for="fees" class="form-control" readonly />
+    </div>
+    <div class="form-group">
+        <label asp-for="Status" class="control-label"></label>
+        <select asp-for="Status" class="form-control">
+            <option value="Active">Active</option>
+            <option value="Inactive">Inactive</option>
+        </select>
+        <span asp-validation-for="Status" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Save Changes" class="btn btn-primary" />
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

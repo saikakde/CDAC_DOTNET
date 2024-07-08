@@ -1,0 +1,335 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|c:\\users\\acer\\source\\repos\\studentmanagement\\studentmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|c:\\users\\acer\\source\\repos\\studentmanagement\\studentmanagement\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|c:\\users\\acer\\source\\repos\\studentmanagement\\studentmanagement\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|c:\\users\\acer\\source\\repos\\studentmanagement\\studentmanagement\\data\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\data\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|c:\\users\\acer\\source\\repos\\studentmanagement\\studentmanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|c:\\users\\acer\\source\\repos\\studentmanagement\\studentmanagement\\views\\student\\editdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\student\\editdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|c:\\users\\acer\\source\\repos\\studentmanagement\\studentmanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|c:\\users\\acer\\source\\repos\\studentmanagement\\studentmanagement\\views\\admin\\editstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\admin\\editstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|c:\\users\\acer\\source\\repos\\studentmanagement\\studentmanagement\\views\\admin\\searchbystatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\admin\\searchbystatus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|c:\\users\\acer\\source\\repos\\studentmanagement\\studentmanagement\\views\\admin\\deletestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\admin\\deletestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|c:\\users\\acer\\source\\repos\\studentmanagement\\studentmanagement\\views\\admin\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\admin\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|c:\\users\\acer\\source\\repos\\studentmanagement\\studentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|c:\\users\\acer\\source\\repos\\studentmanagement\\studentmanagement\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|c:\\users\\acer\\source\\repos\\studentmanagement\\studentmanagement\\views\\student\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\student\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|c:\\users\\acer\\source\\repos\\studentmanagement\\studentmanagement\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|c:\\users\\acer\\source\\repos\\studentmanagement\\studentmanagement\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|c:\\users\\acer\\source\\repos\\studentmanagement\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|c:\\users\\acer\\source\\repos\\studentmanagement\\studentmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|c:\\users\\acer\\source\\repos\\studentmanagement\\studentmanagement\\views\\student\\viewdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{747321CD-8C4C-4514-AE81-42B5E0172C08}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\student\\viewdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Student\\EditDetails.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Student\\EditDetails.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Student\\EditDetails.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Student\\EditDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T20:19:04.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "StudentManagement\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwB0AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T16:44:09.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Admin\\DeleteStudent.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Admin\\DeleteStudent.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Admin\\DeleteStudent.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Admin\\DeleteStudent.cshtml",
+              "ViewState": "AQIAADEAAAAAAAAAAAAYwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T17:58:17.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Admin\\AddStudent.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Admin\\AddStudent.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Admin\\AddStudent.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Admin\\AddStudent.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADgAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T17:40:56.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentManagement\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAABgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T16:45:17.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Startup.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Startup.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Startup.cs",
+              "RelativeToolTip": "StudentManagement\\Startup.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:04:42.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T17:35:05.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Models\\Student.cs",
+              "RelativeToolTip": "StudentManagement\\Models\\Student.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T16:35:27.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Data\\StudentContext.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Data\\StudentContext.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Data\\StudentContext.cs",
+              "RelativeToolTip": "StudentManagement\\Data\\StudentContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA5wA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T16:38:24.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Models\\Admin.cs",
+              "RelativeToolTip": "StudentManagement\\Models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T16:36:48.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\appsettings.json",
+              "RelativeToolTip": "StudentManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T16:33:18.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Admin\\EditStudent.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Admin\\EditStudent.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Admin\\EditStudent.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Admin\\EditStudent.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T17:57:36.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SearchByStatus.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Admin\\SearchByStatus.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Admin\\SearchByStatus.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Admin\\SearchByStatus.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Admin\\SearchByStatus.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T17:58:50.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ViewDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Student\\ViewDetails.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Student\\ViewDetails.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Student\\ViewDetails.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Student\\ViewDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T16:57:12.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Student\\Login.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Student\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Student\\Login.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Student\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T16:56:20.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T16:55:17.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Admin\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Admin\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T16:54:02.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeToolTip": "StudentManagement\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T16:42:24.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\StudentManagement\\StudentManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StudentManagement\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:22:11.693Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
