@@ -1,0 +1,4 @@
+create table employee(id int auto_increment primary key,name varchar(25),reg_date date,address varchar(25),mob_num varchar(25),email varchar(25),password varchar(25));
+
+insert into employee value(default,"sai","2023-02-02","gwoejf","99876
+67887","sai@gmail.com","qwertyuiop");
