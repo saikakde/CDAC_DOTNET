@@ -1,0 +1,12 @@
+﻿@using EmpWebApp.Models;
+@{
+    <h1>List</h1>
+    List<Emp> emps = (List<Emp>)ViewData["sort"];
+    foreach (Emp e in emps)
+    {
+        <li>@e.name</li>
+        <br></br>
+    }
+}
+
+
